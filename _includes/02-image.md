@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Photo of Koshari](https://honestcooking.com/wp-content/uploads/2013/03/Koshari-1.jpg)
